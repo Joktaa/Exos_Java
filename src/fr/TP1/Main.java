@@ -20,7 +20,7 @@ public class Main {
     }
 
     public static int MonLen(ArrayList<Integer> tab) {
-        // Retourner la longueur du tableau
+        // Retourner la longueur du tableau sans utiliser la méthode .size()
         return 0;
     }
 
@@ -30,32 +30,32 @@ public class Main {
     }
 
     public static int MonMax(ArrayList<Integer> tab) {
-        // Retourner la valeur maximale du tableau
+        // Retourner la valeur maximale du tableau sans utiliser la méthode .max()
         return 0;
     }
 
     public static int MonMin(ArrayList<Integer> tab) {
-        // Retourner la valeur minimale du tableau
+        // Retourner la valeur minimale du tableau sans utiliser la méthode .min()
         return 0;
     }
 
     public static ArrayList<Integer> Inverse(ArrayList<Integer> tab) {
-        // Retourner le tableau à l'envers
+        // Retourner le tableau à l'envers sans utiliser la méthode .reverse()
         return null;
     }
 
     public static ArrayList<Integer> MonRemove(ArrayList<Integer> tab, int valeur) {
-        // Retourner le tableau sans la première instance de "valeur"
+        // Retourner le tableau sans la première instance de "valeur" sans utiliser la méthode .remove()
         return null;
     }
 
     public static ArrayList<Integer> MonInsert(ArrayList<Integer> tab, int valeur, int position) {
-        // Retourner le tableau avec l'ajout de "valeur" à "position"
+        // Retourner le tableau avec l'ajout de "valeur" à "position" sans utiliser la signature de la méthode .add() qui permet l'ajout à une position spécifique
         return null;
     }
 
     public static ArrayList<Integer> trie(ArrayList<Integer> tab) {
-        // Retourner le tableau trié
+        // Retourner le tableau trié sans utiliser la méthode .sort()
         return null;
     }
 
